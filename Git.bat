@@ -3,3 +3,4 @@ start "" "https://www.tutorialspoint.com/artificial_intelligence_with_python/art
 start "" "https://stanford.edu/~shervine/l/vi/teaching/cs-230/cheatsheet-recurrent-neural-networks"
 start "" "https://dominhhai.github.io/vi/2017/10/what-is-lstm/"
 start "" "https://ch.mathworks.com/matlabcentral/fileexchange/"
+start "" "https://machinelearningcoban.com/2017/04/09/smv/"
